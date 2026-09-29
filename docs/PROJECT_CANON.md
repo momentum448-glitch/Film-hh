@@ -1,5 +1,5 @@
 FILM_HH — PROJECT_CANON
-CANON VERSION: FH-CANON-005
+CANON VERSION: FH-CANON-006
 STATUS: ACTIVE
 PURPOSE: Nguồn sự thật bền vững của dự án. Chỉ cập nhật khi một quyết định, luật, kiến trúc hoặc asset đã được khóa.
 1. MỤC TIÊU DỰ ÁN
@@ -39,17 +39,20 @@ CHARACTER VISUAL LOCK v0.1:
 - B: nam mid-20s, thấp hơn A, thân chắc gọn, mặt tròn hơn và hài hơn, mắt hẹp hơn A, tóc buộc thấp/gọn; trang phục ngắn và thực dụng; palette nâu đất/olive/xám ấm; dùng đao ngắn.
 - Cả hai không râu, costume tối giản, ưu tiên silhouette rõ và consistency hơn chi tiết cầu kỳ.
 7. VISUAL CANON
-Animation language: Graphic 2D.
-- Shape đơn giản.
-- Silhouette rõ.
-- Outline sạch.
-- Flat color.
-- Acting/expression mạnh.
-- Background hỗ trợ staging, không tranh sự chú ý.
-- Hạn chế texture, chi tiết nhỏ, photorealism, 3D hóa, lighting quá cinematic và camera phức tạp.
-Visual identity: storybook Việt nhẹ.
-- Dùng nhẹ mái ngói, vật liệu gỗ, quán xá, đồ gia dụng, bố cục đường phố, cây cối và một số silhouette kiến trúc Việt.
-- Không khóa vào một triều đại lịch sử cụ thể.
+REFERENCE TARGET: visual language phải bám sát tinh thần series Đại Hiệp của DeeDee ở cấp độ hình khối, mức giản lược, linework, palette và staging; không sao chép nhân vật, costume hoặc asset cụ thể.
+Animation language: hand-drawn comedic graphic 2D, caricature mạnh.
+- Tỷ lệ nhân vật compact/chibi-caricature hơn: đầu tương đối lớn, thân tay chân ngắn/gọn; tránh tỷ lệ anime 6–7 đầu.
+- Shape language ưu tiên khối lớn, tròn/vuông/trapezoid rõ; silhouette đọc ngay từ xa.
+- Gương mặt cực giản lược: mắt, mũi, miệng ít nét; tính cách đến từ shape và pose hơn là chi tiết khuôn mặt.
+- Outline đậm vừa, hơi hữu cơ/không hoàn toàn cơ khí; tránh line sạch bóng kiểu anime concept art.
+- Flat color là chính; shading rất ít hoặc gần như không có trên nhân vật.
+- Palette muted/warm, thiên đất, vàng, đỏ gạch, xanh olive/xanh xám; tránh màu anime quá trong/sáng.
+- Costume được giản lược thành mảng lớn; hạn chế nếp gấp, dây đai, lớp áo và phụ kiện nhỏ.
+- Pose và expression được phép exaggerate mạnh; model không cần đẹp trai/heroic theo anime.
+- Background đơn giản hơn nhân vật về line detail, dùng mảng màu/painterly texture nhẹ, perspective đủ đọc scene; không background concept-art quá chi tiết.
+- Tổng frame nên có cảm giác minh họa hoạt hình vẽ tay, hơi thô có chủ ý, hài và giàu staging.
+- Không photorealism, không 3D look, không cinematic lighting nặng, không anime cel-shading bóng bẩy.
+Visual identity bổ sung: Việt-light qua kiến trúc, props và nhịp sống, nhưng vẫn là fantasy wuxia riêng; không khóa vào một triều đại lịch sử cụ thể.
 8. NARRATOR CANON
 Narrator có giọng sử thi/trang trọng kiểu truyện kiếm hiệp.
 Chủ yếu dùng ở opening và đôi khi ending.
