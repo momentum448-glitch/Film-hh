@@ -1,6 +1,6 @@
 FILM_HH — HANDOFF_CURRENT
-HANDOFF VERSION: FH-HO-007
-CANON VERSION EXPECTED: FH-CANON-005
+HANDOFF VERSION: FH-HO-008
+CANON VERSION EXPECTED: FH-CANON-006
 STATUS: READY TO RESUME
 CURRENT PHASE: Pre-production, Character Design Sprint #01 — tạo reference assets.
 PROJECT DRIVE FOLDER: FILM_HH — Hai Kẻ Hành Tẩu
@@ -31,9 +31,10 @@ Chỉ khi bộ image reference pass mới chuẩn bị Flow video proof.
 4. OPEN ITEMS
 - User đã phản hồi style v001 quá phức tạp và chưa đúng tinh thần reference series.
 - GPT đã tạo hướng tinh giản mới và user đồng ý tiếp tục theo hướng này.
-- Style reference hiện hành: FILM_HH_ASSET_01_STYLE_REFERENCE_v002.png
-- Drive file ID: 1OAbZ3sLv7-d2EFfkmPPM1nmH8EZ-Tn5L
-- Working assumption: dùng v002 làm style baseline cho production, không dùng v001 làm visual target nữa.
+- User yêu cầu artstyle phải gần tinh thần Đại Hiệp hơn.
+- Sau khi nghiên cứu lại official episode pages + official gallery, v002 được đánh dấu KHÔNG CÒN là production style baseline vì vẫn quá anime/clean/chi tiết.
+- v002 chỉ giữ làm mốc lỗi để tránh quay lại hướng cũ.
+- Visual Canon mới FH-CANON-006: caricature compact, head tương đối lớn, shape lớn rõ, face tối giản, organic outline, flat muted colors, gần như không shading, costume ít lớp/ít nếp, background painterly-simplified, pose/expression exaggerate mạnh.
 - Chưa có clean isolated production references cho A và B.
 - Chưa test consistency giữa individual sheets và expression sheets.
 Không reopen premise/world/comedy engine hoặc Character Visual v0.1 trừ khi output ảnh cho thấy conflict rõ.
@@ -64,11 +65,9 @@ VIDEO:
 - Không dùng text-to-video ngẫu hứng làm production path chính.
 - Không sao chép nhân vật/asset/IP của reference.
 8. NEXT ACTION EXACT
-Tạo 2 clean production references theo style baseline v002:
-- Asset 02: A full-body isolated, nền đơn giản, không chữ, không layout sheet.
-- Asset 03: B full-body isolated, nền đơn giản, không chữ, không layout sheet.
-Mục tiêu là khóa face/hair/costume/weapon/palette/silhouette để dùng trực tiếp làm image reference về sau.
-Sau khi user QC và pass Asset 02 + 03: tạo expression sheets, duo situation/keyframe, rồi mới sang Flow video proof.
+Trước khi tạo Asset 02/03 final, GPT phải tạo một STYLE PROOF mới theo FH-CANON-006, chỉ tập trung kiểm tra mức giản lược và caricature gần tinh thần Đại Hiệp.
+Style proof cần: A+B full-body đơn giản trên nền trung tính, không character-board, không chữ, không expression sheet.
+User QC style proof. Chỉ khi style pass mới tạo Asset 02 A clean reference và Asset 03 B clean reference.
 9. RESUME INSTRUCTION FOR A NEW CHAT
 Câu người dùng cần nói duy nhất: “tiếp quản dự án đi em”.
 Khi nhận câu này, GPT phải tự tìm thư mục FILM_HH — Hai Kẻ Hành Tẩu trên Google Drive, đọc HANDOFF_CURRENT trước rồi PROJECT_CANON, đối chiếu phiên bản và tiếp tục trực tiếp từ NEXT ACTION EXACT.
