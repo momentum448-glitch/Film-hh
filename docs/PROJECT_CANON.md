@@ -1,5 +1,5 @@
 FILM_HH — PROJECT_CANON
-CANON VERSION: FH-CANON-006
+CANON VERSION: FH-CANON-007
 STATUS: ACTIVE
 PURPOSE: Nguồn sự thật bền vững của dự án. Chỉ cập nhật khi một quyết định, luật, kiến trúc hoặc asset đã được khóa.
 1. MỤC TIÊU DỰ ÁN
@@ -129,3 +129,12 @@ Chat mới phải:
 - Canonical GitHub repo: momentum448-glitch/Film-hh — https://github.com/momentum448-glitch/Film-hh
 - Repo README phải trỏ về Drive root; Drive handoff phải ghi repo URL/full name.
 - GitHub mirror files: docs/PROJECT_CANON.md và docs/HANDOFF_CURRENT.md. Drive là nguồn thao tác chính cho hai tài liệu sống; sau mỗi cập nhật lớn, GitHub mirror phải được đồng bộ.
+15. CHARACTER REFERENCE LOCK — SPRINT 01
+- Style proof theo FH-CANON-006 đã được user duyệt.
+- Asset 02 — A full-body production reference v001: PASS.
+  Drive file: FILM_HH_ASSET_02_A_FULLBODY_v001.png
+  Drive ID: 1qWnm7fqjkxHdhq1KR7YDm_w3APHj0U3X
+- Asset 03 — B full-body production reference v001: PASS.
+  Drive file: FILM_HH_ASSET_03_B_FULLBODY_v001.png
+  Drive ID: 1o_E_4fNcSZo95FchDVEVK7npNo52ZyYe
+- Hai asset này là reference chính thức cho face/hair/costume/weapon/palette/silhouette của A/B trong vòng production hiện tại.
