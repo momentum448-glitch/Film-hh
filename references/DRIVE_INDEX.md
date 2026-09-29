@@ -21,3 +21,10 @@ https://drive.google.com/drive/folders/1afcnCJerfN69GN6ZnoKDWsT8260q7zAO
   - Status: current style baseline
 
 Binary/media assets stay on Drive. GitHub stores only indexes, specs, prompts, logs, and links.
+
+- FILM_HH_ASSET_02_A_FULLBODY_v001.png
+  - Drive file ID: 1qWnm7fqjkxHdhq1KR7YDm_w3APHj0U3X
+  - Status: PASS / locked production reference
+- FILM_HH_ASSET_03_B_FULLBODY_v001.png
+  - Drive file ID: 1o_E_4fNcSZo95FchDVEVK7npNo52ZyYe
+  - Status: PASS / locked production reference
