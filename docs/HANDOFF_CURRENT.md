@@ -1,6 +1,6 @@
 FILM_HH — HANDOFF_CURRENT
-HANDOFF VERSION: FH-HO-008
-CANON VERSION EXPECTED: FH-CANON-006
+HANDOFF VERSION: FH-HO-009
+CANON VERSION EXPECTED: FH-CANON-007
 STATUS: READY TO RESUME
 CURRENT PHASE: Pre-production, Character Design Sprint #01 — tạo reference assets.
 PROJECT DRIVE FOLDER: FILM_HH — Hai Kẻ Hành Tẩu
@@ -65,9 +65,9 @@ VIDEO:
 - Không dùng text-to-video ngẫu hứng làm production path chính.
 - Không sao chép nhân vật/asset/IP của reference.
 8. NEXT ACTION EXACT
-Trước khi tạo Asset 02/03 final, GPT phải tạo một STYLE PROOF mới theo FH-CANON-006, chỉ tập trung kiểm tra mức giản lược và caricature gần tinh thần Đại Hiệp.
-Style proof cần: A+B full-body đơn giản trên nền trung tính, không character-board, không chữ, không expression sheet.
-User QC style proof. Chỉ khi style pass mới tạo Asset 02 A clean reference và Asset 03 B clean reference.
+Asset 02 A full-body v001 và Asset 03 B full-body v001 đã được user duyệt và khóa.
+NEXT: tạo expression sheet cho A và B dựa trực tiếp trên hai reference đã khóa, giữ nguyên face/hair/costume palette và mức giản lược FH-CANON-006.
+Sau khi expression sheets pass: tạo duo situation/keyframe cho bảng nhiệm vụ, sau đó storyboard/keyframes Proof #01.
 9. RESUME INSTRUCTION FOR A NEW CHAT
 Câu người dùng cần nói duy nhất: “tiếp quản dự án đi em”.
 Khi nhận câu này, GPT phải tự tìm thư mục FILM_HH — Hai Kẻ Hành Tẩu trên Google Drive, đọc HANDOFF_CURRENT trước rồi PROJECT_CANON, đối chiếu phiên bản và tiếp tục trực tiếp từ NEXT ACTION EXACT.
@@ -91,3 +91,6 @@ GitHub structure đã tạo: README.md, docs/PROJECT_CANON.md, docs/HANDOFF_CURR
 Drive + GitHub dual-source storage đã sẵn sàng.
 NEXT STORAGE ACTION: sau mỗi decision checkpoint/asset lock/Flow test lớn, cập nhật Drive live docs trước rồi mirror hai file docs tương ứng lên GitHub.
 NEXT EXECUTION ACTION giữ nguyên: tạo Asset 02 và Asset 03 clean production references.
+11. LOCKED CHARACTER ASSETS
+- A: FILM_HH_ASSET_02_A_FULLBODY_v001.png | Drive ID 1qWnm7fqjkxHdhq1KR7YDm_w3APHj0U3X | PASS
+- B: FILM_HH_ASSET_03_B_FULLBODY_v001.png | Drive ID 1o_E_4fNcSZo95FchDVEVK7npNo52ZyYe | PASS
