@@ -1,5 +1,5 @@
 FILM_HH — PROJECT_CANON
-CANON VERSION: FH-CANON-007
+CANON VERSION: FH-CANON-008
 STATUS: ACTIVE
 PURPOSE: Nguồn sự thật bền vững của dự án. Chỉ cập nhật khi một quyết định, luật, kiến trúc hoặc asset đã được khóa.
 1. MỤC TIÊU DỰ ÁN
@@ -138,3 +138,7 @@ Chat mới phải:
   Drive file: FILM_HH_ASSET_03_B_FULLBODY_v001.png
   Drive ID: 1o_E_4fNcSZo95FchDVEVK7npNo52ZyYe
 - Hai asset này là reference chính thức cho face/hair/costume/weapon/palette/silhouette của A/B trong vòng production hiện tại.
+16. ASSET APPROVAL + DRIVE RULE
+- Từ thời điểm này, chỉ asset đã được user QC và duyệt/PASS mới được đưa vào Google Drive canonical project storage.
+- Asset draft, test, fail, alternate hoặc chưa được user duyệt không được coi là canonical và không tự động lưu vào Drive project folder.
+- Sau khi user duyệt asset, GPT phải tự upload asset đó vào đúng thư mục Drive, đặt tên/version rõ, rồi cập nhật HANDOFF_CURRENT và GitHub Drive index.
