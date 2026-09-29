@@ -16,3 +16,7 @@
 - Marked style v002 as non-production baseline.
 - New target: compact caricature, simplified faces, organic outlines, flat muted palette, minimal shading, simplified painterly backgrounds.
 - Canon FH-CANON-006 / Handoff FH-HO-008.
+
+- User approved Character A/B clean full-body production references.
+- Locked Asset 02 A v001 and Asset 03 B v001 on Drive.
+- Canon FH-CANON-007 / Handoff FH-HO-009.
