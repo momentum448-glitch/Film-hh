@@ -11,3 +11,8 @@
 - Canonical GitHub repo locked: `momentum448-glitch/Film-hh`.
 - Canon advanced to FH-CANON-005; handoff advanced to FH-HO-007.
 - Drive/GitHub cross-links and mirror rules locked.
+
+- Visual canon revised after re-review of official Đại Hiệp references.
+- Marked style v002 as non-production baseline.
+- New target: compact caricature, simplified faces, organic outlines, flat muted palette, minimal shading, simplified painterly backgrounds.
+- Canon FH-CANON-006 / Handoff FH-HO-008.
