@@ -1,5 +1,5 @@
 FILM_HH — PROJECT_CANON
-CANON VERSION: FH-CANON-004
+CANON VERSION: FH-CANON-005
 STATUS: ACTIVE
 PURPOSE: Nguồn sự thật bền vững của dự án. Chỉ cập nhật khi một quyết định, luật, kiến trúc hoặc asset đã được khóa.
 1. MỤC TIÊU DỰ ÁN
@@ -123,4 +123,6 @@ Chat mới phải:
 - Drive root: FILM_HH — Hai Kẻ Hành Tẩu.
 - Drive structure: 00_PROJECT_CONTROL / 01_ASSETS / 02_VIDEO_QC / 03_EXPORTS / 99_ARCHIVE.
 - Character assets hiện nằm dưới 01_ASSETS/CHARACTERS/SPRINT_01.
-- Khi GitHub repo được kết nối, repo phải trỏ về Drive root trong README và Drive handoff phải ghi repo URL/full name.
+- Canonical GitHub repo: momentum448-glitch/Film-hh — https://github.com/momentum448-glitch/Film-hh
+- Repo README phải trỏ về Drive root; Drive handoff phải ghi repo URL/full name.
+- GitHub mirror files: docs/PROJECT_CANON.md và docs/HANDOFF_CURRENT.md. Drive là nguồn thao tác chính cho hai tài liệu sống; sau mỗi cập nhật lớn, GitHub mirror phải được đồng bộ.
