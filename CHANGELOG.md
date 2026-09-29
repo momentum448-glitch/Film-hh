@@ -20,3 +20,6 @@
 - User approved Character A/B clean full-body production references.
 - Locked Asset 02 A v001 and Asset 03 B v001 on Drive.
 - Canon FH-CANON-007 / Handoff FH-HO-009.
+
+- Locked asset approval rule: only user-QC'd PASS assets enter canonical Drive storage.
+- Canon FH-CANON-008 / Handoff FH-HO-010.
