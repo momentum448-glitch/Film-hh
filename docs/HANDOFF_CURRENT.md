@@ -1,6 +1,6 @@
 FILM_HH — HANDOFF_CURRENT
-HANDOFF VERSION: FH-HO-006
-CANON VERSION EXPECTED: FH-CANON-004
+HANDOFF VERSION: FH-HO-007
+CANON VERSION EXPECTED: FH-CANON-005
 STATUS: READY TO RESUME
 CURRENT PHASE: Pre-production, Character Design Sprint #01 — tạo reference assets.
 PROJECT DRIVE FOLDER: FILM_HH — Hai Kẻ Hành Tẩu
@@ -86,6 +86,9 @@ Drive folders đã tạo:
 Character assets: 01_ASSETS/CHARACTERS/SPRINT_01.
 PROJECT_CANON + HANDOFF_CURRENT đã được chuyển vào 00_PROJECT_CONTROL.
 GitHub plugin authenticated account: momentum448-glitch.
-GitHub plugin hiện không expose action tạo repository mới. Repo canonical chưa được tạo bằng GitHub plugin.
-Repo từng được tạo ngoài plugin không được coi là canonical và không dùng cho workflow này.
-NEXT STORAGE ACTION: cần một empty repo tồn tại trên account mà GitHub plugin truy cập được; sau đó GPT sẽ tự tạo README/canon/handoff/prompts/shot-spec structure và đồng bộ bằng GitHub plugin.
+Canonical GitHub repo: momentum448-glitch/Film-hh
+Repo URL: https://github.com/momentum448-glitch/Film-hh
+GitHub structure đã tạo: README.md, docs/PROJECT_CANON.md, docs/HANDOFF_CURRENT.md, references/DRIVE_INDEX.md, prompts/README.md, shots/README.md, production_logs/README.md, CHANGELOG.md.
+Drive + GitHub dual-source storage đã sẵn sàng.
+NEXT STORAGE ACTION: sau mỗi decision checkpoint/asset lock/Flow test lớn, cập nhật Drive live docs trước rồi mirror hai file docs tương ứng lên GitHub.
+NEXT EXECUTION ACTION giữ nguyên: tạo Asset 02 và Asset 03 clean production references.
