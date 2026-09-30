@@ -1,6 +1,6 @@
 FILM_HH — HANDOFF_CURRENT
-HANDOFF VERSION: FH-HO-010
-CANON VERSION EXPECTED: FH-CANON-008
+HANDOFF VERSION: FH-HO-011
+CANON VERSION EXPECTED: FH-CANON-009
 STATUS: READY TO RESUME
 CURRENT PHASE: Pre-production, Character Design Sprint #01 — tạo reference assets.
 PROJECT DRIVE FOLDER: FILM_HH — Hai Kẻ Hành Tẩu
@@ -98,3 +98,7 @@ NEXT EXECUTION ACTION giữ nguyên: tạo Asset 02 và Asset 03 clean productio
 - Chỉ asset user đã QC và duyệt/PASS mới upload vào Drive canonical storage.
 - Bản test/fail/chưa duyệt không upload vào project Drive.
 - Khi user duyệt: GPT tự upload -> ghi file ID/version -> cập nhật HANDOFF_CURRENT -> mirror index lên GitHub.
+13. EXPRESSION ASSETS LOCKED
+- A expression v001 | Drive ID 1enY7sKrjylpTGkU2G_99F5AoWPcQQZ9V | PASS
+- B expression v001 | Drive ID 1vspFM6J9CPAswXguwvrJiVIXrE3dxJHn | PASS
+NEXT ACTION EXACT: tạo duo situation keyframe tại bảng nhiệm vụ, dùng đúng locked A/B full-body + expression references.
