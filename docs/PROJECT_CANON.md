@@ -1,5 +1,5 @@
 FILM_HH — PROJECT_CANON
-CANON VERSION: FH-CANON-008
+CANON VERSION: FH-CANON-009
 STATUS: ACTIVE
 PURPOSE: Nguồn sự thật bền vững của dự án. Chỉ cập nhật khi một quyết định, luật, kiến trúc hoặc asset đã được khóa.
 1. MỤC TIÊU DỰ ÁN
@@ -142,3 +142,7 @@ Chat mới phải:
 - Từ thời điểm này, chỉ asset đã được user QC và duyệt/PASS mới được đưa vào Google Drive canonical project storage.
 - Asset draft, test, fail, alternate hoặc chưa được user duyệt không được coi là canonical và không tự động lưu vào Drive project folder.
 - Sau khi user duyệt asset, GPT phải tự upload asset đó vào đúng thư mục Drive, đặt tên/version rõ, rồi cập nhật HANDOFF_CURRENT và GitHub Drive index.
+17. EXPRESSION REFERENCE LOCK
+- Asset 04 — A expression sheet v001: PASS. Drive ID: 1enY7sKrjylpTGkU2G_99F5AoWPcQQZ9V
+- Asset 05 — B expression sheet v001: PASS. Drive ID: 1vspFM6J9CPAswXguwvrJiVIXrE3dxJHn
+- Hai sheet này là reference acting/expression chính thức của A/B cho Proof #01.
