@@ -28,3 +28,10 @@ Binary/media assets stay on Drive. GitHub stores only indexes, specs, prompts, l
 - FILM_HH_ASSET_03_B_FULLBODY_v001.png
   - Drive file ID: 1o_E_4fNcSZo95FchDVEVK7npNo52ZyYe
   - Status: PASS / locked production reference
+
+- FILM_HH_ASSET_04_A_EXPRESSION_v001.png
+  - Drive file ID: 1enY7sKrjylpTGkU2G_99F5AoWPcQQZ9V
+  - Status: PASS / locked expression reference
+- FILM_HH_ASSET_05_B_EXPRESSION_v001.png
+  - Drive file ID: 1vspFM6J9CPAswXguwvrJiVIXrE3dxJHn
+  - Status: PASS / locked expression reference
