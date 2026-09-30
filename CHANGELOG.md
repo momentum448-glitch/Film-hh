@@ -23,3 +23,7 @@
 
 - Locked asset approval rule: only user-QC'd PASS assets enter canonical Drive storage.
 - Canon FH-CANON-008 / Handoff FH-HO-010.
+
+- User approved expression sheets for A and B.
+- Uploaded and locked Asset 04/05 on Drive.
+- Canon FH-CANON-009 / Handoff FH-HO-011.
